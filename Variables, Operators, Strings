@@ -1,0 +1,42 @@
+Write a script that adds 15 and 30 and divides the sum by 2. Print out the answer.
+print((15+30)/2)
+ 
+Initialize two variables and use arithmetic operators to add, subtract, multiply, divide, and find the remainder.
+a = 10
+b = 5
+a + b
+a - b
+a * b
+a / b
+a % b
+
+Create a variable called name and store your name in it as a string.
+name = "Avinash"
+ 
+Create three variables in one line and assign each one a different food item.
+a, b, c = "pizza", "pie", "pudding"
+ 
+Print out "Hello" ten times using arithmetic operators.
+print("Hello" * 10)
+ 
+Set your name and age variables in one line with multiple assignment
+name, age = "Avinash", 17
+
+Create two strings and then create a third variable combining both of the two original strings.
+sen1 = "Hi there."
+sen2 = "How are you doing?"
+ 
+print(sen1 + " " + sen2)
+ 
+Create a string and print the fourth letter of the word.
+sen1 = "I love pizza"
+print(sen1[3])
+ 
+Create a string and print the letters from index 0 to 5.
+sen1 = "I still love pizza"
+print(sen1[0:6])
+ 
+Create a variable and print all the letters from the first index until the end.
+sen1 = "Pizza is love. Pizza is life."
+print(sen1[1:])
+ 
